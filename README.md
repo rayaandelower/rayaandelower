@@ -2,7 +2,7 @@
 ### Hi there 👋, It's Rayaan Ahmed Delower
 #### Web Developer
 
-Sup! It's Delower. A full-stack Web Developer who is passionate & dedicated. I’m working with frontend development, WordPress, Elementor pro, Divi builder, wp bakery page builder, and designing responsive landing pages. I have the skills and knowledge to make you satisfied with my Creativity & Skills and Previous Experience. From discussion and collaboration to concept and execution.
+Sup! It's Delower. A full-stack Web Developer who is passionate & dedicated. I’m working with frontend development, WordPress, Elementor pro, Divi builder, wp bakery page builder, and designing responsive landing pages. I have the skills and knowledge to make you satisfied with my Creativity.
 
 Skills: PHP/ JS / HTML / CSS
 
