@@ -4,7 +4,7 @@
 
 Sup! It's Delower. A full-stack Web Developer who is passionate & dedicated. I’m working with frontend development, WordPress, Elementor pro, Divi builder, wp bakery page builder, and designing responsive landing pages. I have the skills and knowledge to make you satisfied with my Creativity.
 
-Skills: PHP/ JS / HTML / CSS
+Skills: PHP/ JS / HTML / CSS / WordPress Expert
 
 - 🔭 I’m currently working on WordPress 
 - 🌱 I’m currently learning Javascript/PHP 
